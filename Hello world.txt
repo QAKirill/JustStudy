@@ -1,3 +1,5 @@
 print("Hello world.");
 print("second hello.");
 print("Hi.");
+print("privet.");
+print("another privet.);
